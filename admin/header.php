@@ -100,7 +100,7 @@ if($_SESSION['status'] != "login"){
 
                 <!-- LOGOUT -->
                 <li>
-                    <a href="input.php">
+                    <a href="logout.php">
                         <i class="glyphicon glyphicon-log-out"></i>
                         Log Out
                     </a>
